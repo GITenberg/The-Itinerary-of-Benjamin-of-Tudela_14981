@@ -1,0 +1,39 @@
+_repo: The-Itinerary-of-Benjamin-of-Tudela_14981
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Adler, Marcus Nathan
+    birthdate: 1837
+    deathdate: 1911
+    gutenberg_agent_id: '39317'
+    url: http://www.gutenberg.org/2009/agents/39317
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Benjamin, of Tudela, active 12th century
+    aliases:
+    - Benjamin, von Tudela
+    - Beniamin, sonne of Ionas, of Tudela
+    - Benjamin ben Jonah, of Tudela
+    gutenberg_agent_id: '5769'
+    url: http://www.gutenberg.org/2009/agents/5769
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_of_Tudela
+description: ''
+gutenberg_issued: '2005-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14981'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Benjamin, of Tudela, active 12th century'
+- !lcsh 'Geography, Medieval'
+- !lcc 'G'
+- !lcsh 'Jews -- Social life and customs -- Early works to 1800'
+- !lcsh 'Voyages and travels'
+title: The Itinerary of Benjamin of Tudela
+url: http://www.gutenberg.org/ebooks/14981
